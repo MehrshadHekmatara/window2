@@ -7,9 +7,7 @@
 .parent {
   width: 250px;
   height: 250px;
-  background-image: url(../images/images.jfif);
-  background-size: cover;
-  background-position: center;
+  background-color: gray;
   margin: 100px auto;
   position: relative;
   perspective: 800px;
